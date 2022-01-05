@@ -1,0 +1,25 @@
+{
+    "name": "epaper-dashboard",
+    "version": "1.0.0",
+    "description": "Repo for my home dashboard",
+    "main": "index.js",
+    "dependencies": {
+        "epaperjs": "^1.7.2",
+        "puppeteer": "^11.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iSkore/epaper-dashboard.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/iSkore/epaper-dashboard/issues"
+    },
+    "homepage": "https://github.com/iSkore/epaper-dashboard#readme"
+}

@@ -1,0 +1,17 @@
+{
+	"appbar": {
+		"clipped": true,
+		"dense": true
+	},
+	"sidebar": {
+		"model": true,
+		"type": "",
+		"clipped": true,
+		"floating": false,
+		"mini": false
+	},
+	"footer": {
+		"inset": false,
+		"height": 26
+	}
+}
